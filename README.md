@@ -10,9 +10,10 @@ To use, you must have a file. the output will go to
 ```
 C:/User/Downloads/videooutput.avi
 ```
-SETUP:
-Download the file (obviously)
-in powershell run
+## SETUP:
+
+- [Download the file](https://github.com/PSYclownYT/Export-Data-As-Video/releases/download/v1/Output-Data-As-Video.ps1) (obviously)
+- in powershell run
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
